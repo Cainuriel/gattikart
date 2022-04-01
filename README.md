@@ -1,0 +1,2 @@
+# gattikart
+contrato de gattika
